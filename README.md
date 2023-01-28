@@ -1,5 +1,5 @@
 # Your Project's Title...
-Your project's description...
+AEM Franklin example page and demo environment.
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.hlx.page/
