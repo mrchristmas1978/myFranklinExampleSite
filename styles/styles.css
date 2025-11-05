@@ -12,12 +12,12 @@
 
  :root {
   /* colors */
-  --link-color: #035fe6;
-  --link-hover-color: #136ff6;
-  --background-color: pink;
-  --overlay-background-color: #eee;
-  --highlight-background-color: #ccc;
-  --text-color: #000;
+  --link-color: #DC143C;
+  --link-hover-color: #FF1744;
+  --background-color: #FFFEF7;
+  --overlay-background-color: #F0F8F5;
+  --highlight-background-color: #FFD700;
+  --text-color: #1B4D3E;
 
   /* fonts */
   --body-font-family: 'helvetica neue', helvetica, ubuntu, roboto, noto, sans-serif;
