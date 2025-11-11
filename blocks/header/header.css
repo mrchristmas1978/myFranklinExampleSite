@@ -16,6 +16,7 @@ header nav {
   height: var(--nav-height);
   padding: 0 1rem;
   background-color: var(--highlight-background-color);
+  color: #000;
   font-family: var(--body-font-family);
 }
 
