@@ -12,12 +12,13 @@
 
  :root {
   /* colors */
-  --link-color: #DC143C;
-  --link-hover-color: #FF1744;
-  --background-color: #FFFEF7;
-  --overlay-background-color: #F0F8F5;
-  --highlight-background-color: #FFD700;
-  --text-color: #1B4D3E;
+ --link-color: #B71C1C;
+ --link-hover-color: #D32F2F;
+ --background-color: #FFFDF5;
+ --overlay-background-color: #F1F8E9;
+ --highlight-background-color: #FFD700;
+ --text-color: #0F3D2E;
+ --overlay-color: rgba(15, 61, 46, 0.08);
 
   /* fonts */
   --body-font-family: 'helvetica neue', helvetica, ubuntu, roboto, noto, sans-serif;
